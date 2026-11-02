@@ -1,0 +1,3 @@
+# Running app.py requires only the Python standard library (including tkinter).
+# Install build requirements only when packaging an exe:
+-r requirements-build.txt
